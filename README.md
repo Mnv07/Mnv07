@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there 👋
 
 
 I'm Manav, a Comp Sci student in United States with a focus in Software Engineering. 
