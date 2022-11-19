@@ -4,8 +4,8 @@
 I'm Manav, a Comp Sci student in United States with a focus in Software Engineering. 
 
 
-- Languages and Technologies: Python; Java; JavaScript; C; C++; HTML; CSS
-- Tools & Frameworks: React.js; BootStrap; Node.js; MySQL; Git; Visual Studio Code; Atom
+Languages and Technologies: Python; Java; JavaScript; C; C++; HTML; CSS
+Tools & Frameworks: React.js; BootStrap; Node.js; MySQL; Git; Visual Studio Code; Atom
 
 - ✨ Project and Work Experience : 
 
