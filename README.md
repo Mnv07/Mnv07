@@ -16,5 +16,5 @@ I'm Manav, a Comp Sci student in United States with a focus in Software Engineer
 - 🔭 I’m currently improving my skills in React.js and C++
 - 👯 I’m looking to collaborate on Fintech Projects
 - 💬 Ask me about ... Data Structures and Algorithms, Full Stack Web development 
-- 📫 How to reach me: https://www.linkedin.com/in/manav-goel-334916225/ @LinkedIn
+- 📫 How to reach me: https://www.linkedin.com/in/manav-goel-334916225/ 
 
