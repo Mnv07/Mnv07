@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 
-**Mnv07/Mnv07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I'm Manav, a Comp Sci student in United States with a focus in Software Engineering. 
 
 
