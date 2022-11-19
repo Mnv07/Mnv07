@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **Mnv07/Mnv07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 I'm Manav, a Comp Sci student in United States with a focus in Software Engineering. 
@@ -19,4 +19,4 @@ Tools & Frameworks: React.js; BootStrap; Node.js; MySQL; Git; Visual Studio Code
 - 👯 I’m looking to collaborate on Fintech Projects
 - 💬 Ask me about ... Data Structures and Algorithms, Full Stack Web development 
 - 📫 How to reach me: https://www.linkedin.com/in/manav-goel-334916225/ @LinkedIn
--->
+
