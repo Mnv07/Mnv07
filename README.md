@@ -5,7 +5,7 @@ I'm Manav, a Comp Sci student in United States with a focus in Software Engineer
 
 - ✨ Project and Work Experience : 
 
-  - Hack Harvard @ Harvard - TravAlly (https://github.com/Mnv07/travAlly) . [October 2022]
+  - Hack Harvard @ Harvard - TravAlly (https://devpost.com/software/travally?ref_content=my-projects-tab&ref_feature=my_projects) . [October 2022]
   - HackSc @ USC - Twitch Stream Chat Analyzer (https://github.com/Mnv07/hacksc) . [February 2022]
   - Teaching Assistant at Arizona State University - Principles of Programming (Java) . [Fall 2022 Semester]
   
